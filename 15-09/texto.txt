@@ -1,0 +1,7 @@
+    Foi incluido o google analithic na implementação e o requisitor do sistema agora
+    quer passar a resolução das view ports com os tamanhos de;
+    smartphone 0 - 600px;
+    tablet 601-750px;
+    pc inic. 751- 1200 px;
+    pc full 1201- sem limite px;
+    
